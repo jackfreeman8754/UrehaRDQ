@@ -1,5 +1,4 @@
 {
-    "embed_dim": 2048,
     "audio_cfg": {
         "audio_length": 1024,
         "clip_samples": 480000,
@@ -8,7 +7,6 @@
         "window_size": 1024,
         "hop_size": 480,
         "fmin": 50,
-        "fmax": 14000,
         "class_num": 527,
         "model_type": "HTSAT",
         "model_name": "large"
